@@ -1,0 +1,105 @@
+* {background-color: rgb(241, 226, 226);
+  opacity: 0.9999}
+      .gid1 {color: antiquewhite;
+             text-transform: uppercase;
+             text-align: center;
+             display: flow-root;
+              background-color:orchid;
+              border-radius: 20px;
+              padding-top: 20px;
+              padding-bottom: 20px;
+              border: none;
+              border-color: orchid;
+              border-style: solid;
+            text-shadow: 1px 1px 2px 5px orchid;}
+            .divcentering { box-shadow: 1px 2px 4px 2px rgb(239, 220, 247);
+            border: none;
+            border-radius: 30px;
+          border-style: solid;
+         border-color:  rgb(230, 200, 241) ;
+        margin-top: 70px;
+        font-weight: bolder;
+        font-size: 20px;
+      margin-bottom: 20px;
+    padding-top: 50px;
+  padding-bottom: 100px;}
+             .sly2 {background-color:orchid;
+                    font-family: 'Times New Roman', Times, serif;
+                    font-weight: bold;
+                    font-size: 40px;}
+                    .X {margin-bottom: 40px;}
+       .sly3 {display: inline-block;
+                 background-color:orchid;
+                 font-family: Verdana, Geneva, Tahoma, sans-serif;
+                 cursor: pointer;
+                 font-weight: bold;}
+                 a {text-decoration: none;
+                   background-color: orchid;
+                   transition: text-decoration color 0.15s;}
+                   a:hover {text-decoration: underline; color: rgb(44, 5, 77);}
+                   .dy6 {color: rgb(201, 81, 248);
+                        text-align: left;
+                        text-indent: 1.5cm;
+                        line-height: 30px;
+                        font-family: Georgia, 'Times New Roman', Times, serif;}
+              .firewall {text-align: left;
+                         text-indent: 30px;
+                         margin-left:10px;
+                         font-family: Georgia, 'Times New Roman', Times, serif;}
+                         .divstyling,.visionstyle {width: 300px;
+                             text-indent: 4px;
+                             margin-left: 180px;
+                             vertical-align: top;
+                             display: inline-block;
+                             box-shadow: 5px 5px 15px 7px rgb(189, 146, 207); 
+                            font-size: 16px;
+                            padding-left: 50px;
+                            padding-bottom: 1px;
+                            padding-top: 15px;
+                            padding-right: 50px;
+                            border: none;
+                            border-color: rgb(241, 226, 226);
+                            border-radius: 10px;
+                            border-style: solid;
+                           font-family: Georgia, 'Times New Roman', Times, serif;
+                          font-weight: bold;
+                          }
+                          .data101 
+                          {
+                            display: inline-block;
+                          }
+                          .divcentering {
+                            box-shadow: 10px 7px 15px 10px rgb(189, 146, 207); 
+                            border-style: solid;
+                            margin-bottom: 100px;
+                            border: none;
+                            border-color: rgb(241, 226, 226);}
+                          .inlinevenue {display:block;
+                          font-weight: bold;
+                        font-size: 15px;
+                      margin-top: 10px;
+                    margin-bottom: 0;
+                  padding-left: 800px;
+                margin-left: 120px;
+                font-family: Georgia, 'Times New Roman', Times, serif;}
+                .footerhead,.div890,.footerhead1 {background-color: black;}
+                .ul11,.ul22 {width: 400px;
+                             text-indent: 4px;
+                             margin-left: 180px;
+                             vertical-align: bottom;
+                             background-color: black;
+                             color: white;
+                             font-family: 'Courier New', Courier, monospace;
+
+                             margin-top: 0px;
+                             display: inline-block;}
+                             .footerhead1 {color: white;
+                            font-family: 'Courier New', Courier, monospace;
+                             text-align: center;
+                             font-weight: bold;
+                             font-size: 25px;
+                            padding-top: 50px;}
+                            .footerhead {list-style: none;
+                              cursor:pointer;
+                            transition: color 0.15s;}
+                        
