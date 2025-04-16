@@ -5,7 +5,7 @@
 - 📫 You can reach me 
    * Here
    * https://linkedin.com/in/odeyemi-soughtout on Linkedin
-   * Soughtout_dev on Twitter
+   * x.com/Soughtout_dev on Twitter
 - 😄 Pronouns: I, me
 - ⚡ Fun fact: I encode anything I see as a sketch !!
 
